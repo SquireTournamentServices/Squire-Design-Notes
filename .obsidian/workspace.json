@@ -1,0 +1,152 @@
+{
+  "main": {
+    "id": "ab8f13d700098b36",
+    "type": "split",
+    "children": [
+      {
+        "id": "d8df9b52a81f814a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "788dd71e1d737506",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "sync process.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ce2dd76b1c714c9f",
+    "type": "split",
+    "children": [
+      {
+        "id": "03812574f10ea794",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "88b95441999fe573",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "0a298dfe581ddbaf",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "85710c05dd63516c",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "f1be7964f0b87b4b",
+    "type": "split",
+    "children": [
+      {
+        "id": "9a0ab00237122048",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b4f52cf1e6ea70d8",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "sync process.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d81e2169e2a28fdf",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "sync process.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c97dace19b5bb274",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "0fca85ce7b5581d2",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "sync process.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "788dd71e1d737506",
+  "lastOpenFiles": [
+    "sync process.md",
+    "A lack of determinism is an issue between clients.md",
+    "round.md",
+    "Sending whole tournaments is a bad sync process.md",
+    "tournament operation.md",
+    "operations encapsulate all of the ways in which you can change with a tournament's state.md",
+    "local-first model.md",
+    "op sync.md",
+    "SquireCore.md",
+    "SquireBot.md"
+  ]
+}
