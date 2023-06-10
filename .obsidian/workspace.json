@@ -64,6 +64,14 @@
               "type": "starred",
               "state": {}
             }
+          },
+          {
+            "id": "020b18f63d5bb65b",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
         ]
       }
@@ -136,10 +144,21 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "88b95441999fe573",
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "788dd71e1d737506",
   "lastOpenFiles": [
-    "Untitled.md",
+    "OpDecision.md",
     "op sync.md",
+    "Untitled.md",
     "Untitled 1.md",
     "_Templates/Process.md",
     "sync process.md",
